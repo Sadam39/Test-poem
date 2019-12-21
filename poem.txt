@@ -5,7 +5,6 @@ BLUE
 YELLOW 
 GREEN
 INDIGO
-ponies 
 unicon 
 PURPLE 
 PINK
