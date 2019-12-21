@@ -5,6 +5,7 @@ BLUE
 YELLOW 
 GREEN
 INDIGO
+grey
 unicon 
 PURPLE 
 PINK
