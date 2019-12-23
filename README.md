@@ -5,3 +5,6 @@ This is the first commit on local repository
 
 this is a happy song. 
 
+
+something is better than nothing. 
+
